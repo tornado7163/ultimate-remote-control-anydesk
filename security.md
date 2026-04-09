@@ -14,7 +14,8 @@ The **🖥️ Ultimate Remote Control AnyDesk** is the most powerful tool for un
 </div>
 
 <div align="center">
-<img width="1197" height="524" alt="image" src="https://github.com/user-attachments/assets/d3951ccd-8d34-426a-a840-fc44c9a15fb9" />
+<img width="1203" height="556" alt="image" src="https://github.com/user-attachments/assets/d1b13d2d-fdc7-4adf-947a-4f09170052f8" />
+
 </div>
 
 ---
